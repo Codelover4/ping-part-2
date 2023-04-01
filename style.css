@@ -1,0 +1,73 @@
+h4 {
+
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color:rgb(179, 228, 254);
+    color:white;
+    height:50px;
+    box-shadow:5px 5px 5px rgb(211, 211, 230);
+    border:3px solid rgba(0, 0, 255, 0.55);
+    
+}
+
+#title
+{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color:rgb(179, 232, 254);
+    color:white;
+    font-weight:bolder;
+    box-shadow:5px 5px 5px rgba(208, 207, 209, 0.21);
+    border:5px solid rgba(42, 65, 142, 0.245);
+   
+}
+
+#status
+{
+    border: 3px solid rgb(109, 106, 150);
+    background-color:aliceblue;
+    color:rgb(104, 132, 197);
+    font-weight:bold;
+    box-shadow:5px 3px 10px rgb(33, 88, 151);
+    
+}
+
+
+body
+{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-size:cover;
+    background-position: center;
+
+
+}
+
+#instructions, h2
+{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color:rgb(93, 192, 191);
+    color:white;
+    box-shadow:5px 10px 10px rgba(33, 147, 134, 0.567);
+    border:2px solid rgba(0, 183, 255, 0.245);
+}
+
+h5 
+{
+    background-color:rgba(0, 255, 255, 0.04);
+    border: 10px solid rgba(14, 14, 255, 0.034);
+    color:rgb(29, 113, 188);
+    box-shadow:5px 5px 10px rgb(176, 221, 255);
+}
+
+#restart {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color:rgba(107, 213, 232, 0.665);
+box-shadow:5px 5px 5px rgb(31, 63, 75);
+border: 3px solid rgb(33, 87, 95);
+}
+
+h3 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color:rgba(107, 213, 232, 0.118);
+box-shadow:5px 5px 5px rgba(31, 63, 75, 0.113);
+border: 3px solid rgba(33, 87, 95, 0.025);
+}
+
